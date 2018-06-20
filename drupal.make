@@ -15,5 +15,5 @@ projects[drupal][patch][] = "https://raw.githubusercontent.com/os2loop/profile/m
 ; Install profile.
 projects[loopdk][type] = "profile"
 projects[loopdk][download][type] = "git"
-projects[loopdk][download][url] = "https://github.com/os2loop/profile.git"
+projects[loopdk][download][url] = "https://github.com/itk-ba/loop.git"
 projects[loopdk][download][tag] = "1.8.5"
