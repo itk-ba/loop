@@ -144,7 +144,7 @@ projects[message_subscribe][subdir] = "contrib"
 projects[message_subscribe][version] = "1.0-rc2"
 
 projects[mimemail][subdir] = "contrib"
-projects[mimemail][version] = "1.0"
+projects[mimemail][version] = "1.1"
 
 projects[module_filter][subdir] = "contrib"
 projects[module_filter][version] = "2.0"
@@ -201,7 +201,7 @@ projects[search_api_page][subdir] = "contrib"
 projects[search_api_page][version] = "1.3"
 
 projects[search_api_solr][subdir] = "contrib"
-projects[search_api_solr][version] = "1.12"
+projects[search_api_solr][version] = "1.14"
 
 projects[search_api_spellcheck][subdir] = "contrib"
 projects[search_api_spellcheck][version] = "1.0"
@@ -253,7 +253,7 @@ projects[transliteration][subdir] = "contrib"
 projects[transliteration][version] = "3.2"
 
 projects[uuid][subdir] = "contrib"
-projects[uuid][version] = "1.0"
+projects[uuid][version] = "1.2"
 
 projects[uuid_features][subdir] = "contrib"
 projects[uuid_features][version] = "1.0-rc1"
